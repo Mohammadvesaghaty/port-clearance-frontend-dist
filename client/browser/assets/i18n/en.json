@@ -1,0 +1,112 @@
+{
+  "userWelcomeHeader": "خوش آمدید ",
+  "crud": {
+    "newBtn": "جدید",
+    "deleteBtn": "حذف",
+    "saveBtn": "ذخیره",
+    "exportBtn": "اکسل",
+    "printBtn": "چاپ",
+    "saved": "ذخیره شد",
+    "updated": "به روز شد",
+    "deleted": "حذف شد",
+    "areYouSureToDelete": "آیا مطمئن هستید که می خواهید حذف کنید؟"
+  },
+  "sideNavMenu": {
+    "basicInformation": {
+      "title": "اطلاعات پایه",
+      "subMenu": {
+        "candidate": "نمایندگی",
+        "brand": "برند خودرو",
+        "carModel": "مدل خودرو",
+        "contract": "قرارداد",
+        "investor": "سرمایه گذار",
+        "veteran": "جانباز",
+        "product": "محصول",
+        "order": "سفارش"
+      }
+    },
+    "regisery": {
+      "title": "ثبت نام"
+    }
+  },
+  "columnDefBoolean": {
+    "true": "صحیح",
+    "false": "غلط"
+  },
+  "agency": {
+    "title": "نمایندگی",
+    "description": "توضیحات",
+    "name": "نام نمایندگی"
+  },
+  "brand": {
+    "title": "برند",
+    "description": "توضیحات",
+    "name": "نام برند"
+  },
+  "carModel": {
+    "title": "مدل خودرو",
+    "description": "توضیحات",
+    "name": "مدل خودرو"
+  },
+  "contract": {
+    "title": "انواع قرارداد",
+    "description": "توضیحات",
+    "name": "نوع قرارداد"
+  },
+  "investor": {
+    "title": "سرمایه گذار",
+    "firstName": "نام سرمایه گذار",
+    "company": "شرکت",
+    "lastName": "نام خانوادگی سرمایه گذار",
+    "address": "آدرس",
+    "type": "نوع سرمایه گذار",
+    "phoneNumber": " شماره تلفن سرمایه گذار"
+  },
+  "veteran": {
+    "title": "جانباز",
+    "firstName": "نام جانباز",
+    "lastName": "نام خانوادگی جانباز",
+    "phoneNumber": "شماره تلفن جانباز",
+    "nationalId": "شناسه ملی",
+    "disabilityPercentage": "درصد معلولیت",
+    "unifiedSystemUsername": "نام کاربری سیستم یکپارچه",
+    "unifiedSystemPassword": "رمز عبور سیستم یکپارچه",
+    "veteransSystemUsername": "نام کاربری سیستم کهنه سربازان",
+    "veteransSystemPassword": "رمز عبور سیستم کهنه سربازان"
+  },
+  "product": {
+    "title": "محصول",
+    "brand": "برند",
+    "carModel": "مدل خودرو",
+    "chassisFormat": "فرمت شاسی",
+    "productIdentifier": "شناسه محصول",
+    "manufacturingCountry": "کشور سازنده"
+  },
+  "order": {
+    "title": " سفارش",
+    "investorPhoneNumber": "تلفن سرمایه گذار",
+    "contractNumber": "شماره قرارداد",
+    "contractDate": "تاریخ قرارداد",
+    "warrantyContractDate": "تاریخ قرارداد گارانتی",
+    "documentVerified": "تایید مدارک",
+    "token": "توکن",
+    "powerOfAttorney": "وکالت نامه",
+    "orderSubmissionDate": "تاریخ ثبت سفارش",
+    "eightDigitOrderCode": "کد ۸ رقمی سفارش",
+    "currencyAllocationQueueDate": "تاریخ صف تخصیص ارز",
+    "currencyAllocationApprovalDate": "تاریخ تایید ارز",
+    "supplyDate": "تاریخ تامین",
+    "completeAndSendDate": "تاریخ تکمیل و ارسال",
+    "lastStatus": "آخرین وضعیت",
+    "fileNumber": "شماره پرونده",
+    "createUser": "ایجاد کننده",
+    "createUserDate": "تاریخ ایجاد",
+    "updateUser": "اخرین تغییر",
+    "updateUserDate": "تاریخ آخرین تغییر"
+  },
+  "error": {
+    "sessionExpiry": "لطفا دوباره لاگین شوید.",
+    "permission": "شما دسترسی لازم برای این عملیات را ندارید.",
+    "serverError": "خطا در سرور. لطفا دوباره تلاش کنید."
+  }
+}
