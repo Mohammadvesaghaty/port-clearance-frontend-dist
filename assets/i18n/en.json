@@ -53,6 +53,10 @@
     "description": "توضیحات",
     "name": "نوع قرارداد"
   },
+  "investorTypeName":{
+    "Man":"شخص",
+    "Company":"شرکت"
+  },
   "investor": {
     "title": "سرمایه گذار",
     "firstName": "نام سرمایه گذار",
