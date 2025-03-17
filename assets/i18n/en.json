@@ -1,4 +1,5 @@
 {
+  "system.name":"سیستم جانبازی",
   "userWelcomeHeader": "خوش آمدید ",
   "crud": {
     "newBtn": "جدید",
