@@ -1,5 +1,5 @@
 {
-  "system.name":"سیستم جانبازی",
+  "system.name":"سیستم کهنه سربازی",
   "userWelcomeHeader": "خوش آمدید ",
   "crud": {
     "newBtn": "جدید",
@@ -21,7 +21,7 @@
         "carModel": "مدل خودرو",
         "contract": "قرارداد",
         "investor": "سرمایه گذار",
-        "veteran": "جانباز",
+        "veteran": "کهنه سرباز",
         "product": "کالا",
         "order": "سفارش"
       }
@@ -68,16 +68,19 @@
     "phoneNumber": " شماره تلفن سرمایه گذار"
   },
   "veteran": {
-    "title": "جانباز",
-    "firstName": "نام جانباز",
-    "lastName": "نام خانوادگی جانباز",
-    "phoneNumber": "شماره تلفن جانباز",
+    "title": "کهنه سرباز",
+    "firstName": "نام کهنه سرباز",
+    "lastName": "نام خانوادگی کهنه سرباز",
+    "phoneNumber": "شماره تلفن کهنه سرباز",
     "nationalId": "شناسه ملی",
     "disabilityPercentage": "درصد معلولیت",
     "unifiedSystemUsername": "نام کاربری سیستم یکپارچه",
     "unifiedSystemPassword": "رمز عبور سیستم یکپارچه",
     "veteransSystemUsername": "نام کاربری سیستم کهنه سربازان",
-    "veteransSystemPassword": "رمز عبور سیستم کهنه سربازان"
+    "veteransSystemPassword": "رمز عبور سیستم کهنه سربازان",
+    "contractNumber": "شماره قرارداد",
+    "description": "توضیحات",
+    "contractDate": "تاریخ قرارداد"
   },
   "product": {
     "title": "محصول",
@@ -85,13 +88,14 @@
     "carModel": "مدل خودرو",
     "chassisFormat": "فرمت شاسی",
     "productIdentifier": "شناسه محصول",
-    "manufacturingCountry": "کشور سازنده"
+    "manufacturingCountry": "کشور سازنده",
+    "currency": "ارز",
+    "tariff": "تعرفه"
   },
   "order": {
     "title": " سفارش",
     "investorPhoneNumber": "تلفن سرمایه گذار",
-    "contractNumber": "شماره قرارداد",
-    "contractDate": "تاریخ قرارداد",
+   
     "warrantyContractDate": "تاریخ قرارداد گارانتی",
     "documentVerified": "تایید مدارک",
     "token": "توکن",
@@ -107,7 +111,16 @@
     "createUser": "ایجاد کننده",
     "createUserDate": "تاریخ ایجاد",
     "updateUser": "اخرین تغییر",
-    "updateUserDate": "تاریخ آخرین تغییر"
+    "updateUserDate": "تاریخ آخرین تغییر",
+
+    "candidatePaymentType": "نوع پرداخت نمایندگی",
+    "candidatePaymentDescription": "توضیحات پرداخت",
+    "chassi": "شاسی",
+    "amount": "مبلغ ارز",
+    "amountDate": "تاریخ مبلغ ارز",
+    "documentVerifiedDate": "تاریخ تایید مدارک",
+    "tokenDate": "تاریخ توکن",
+    "powerOfAttorneyDate": "تاریخ وکالت نامه"
   },
   "error": {
     "sessionExpiry": "لطفا دوباره لاگین شوید.",
