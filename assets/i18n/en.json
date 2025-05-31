@@ -23,11 +23,17 @@
         "investor": "سرمایه گذار",
         "veteran": "کهنه سرباز",
         "product": "کالا",
-        "order": "سفارش"
+        "order": "سفارش",
+        "tarkhis": "ترخیص"
+        
       }
     },
     "regisery": {
       "title": "ثبت نام"
+    }
+    ,
+    "tarkhis": {
+      "title": "ترخیص"
     }
   },
   "columnDefBoolean": {
@@ -93,9 +99,10 @@
     "tariff": "تعرفه"
   },
   "order": {
-    "title": " سفارش",
+    "orderTitle": " سفارش",
+    "tarkhisTitle": " ترخیص",
+
     "investorPhoneNumber": "تلفن سرمایه گذار",
-   
     "warrantyContractDate": "تاریخ قرارداد گارانتی",
     "documentVerified": "تایید مدارک",
     "token": "توکن",
@@ -112,7 +119,6 @@
     "createUserDate": "تاریخ ایجاد",
     "updateUser": "اخرین تغییر",
     "updateUserDate": "تاریخ آخرین تغییر",
-
     "candidatePaymentType": "نوع پرداخت نمایندگی",
     "candidatePaymentDescription": "توضیحات پرداخت",
     "chassi": "شاسی",
@@ -120,7 +126,32 @@
     "amountDate": "تاریخ مبلغ ارز",
     "documentVerifiedDate": "تاریخ تایید مدارک",
     "tokenDate": "تاریخ توکن",
-    "powerOfAttorneyDate": "تاریخ وکالت نامه"
+    "powerOfAttorneyDate": "تاریخ وکالت نامه",
+    "hasOrderComplete": "سفارش کامل شده؟",
+
+    "color": "رنگ",
+    "carArrivalDate": "تاریخ رسیدن خودرو",
+    "warehouseReceiptDate": "تاریخ قبض انبار",
+    "customOffice": "گمرک",
+    "docsSentToBrokerDate": "تاریخ ارسال اسناد به ترخیص کار",
+    "eplPassword": "پسوورد EPL",
+    "kotajNumber": "شماره کوتاژ",
+    "kotajDate": "تاریخ کوتاژ",
+    "sataCode": "کد ساتا",
+    "sataDate": "تاریخ ساتا",
+    "paymentToolCode": "کد ابزار پرداخت",
+    "standardTick": "تیک استاندارد",
+    "standardTickDate": "تاریخ",
+    "environmentTick": "تیک محیط زیست",
+    "environmentTickDate": "تاریخ",
+    "developmentOrgTick": "تیک سازمان توسعه",
+    "developmentOrgTickDate":"تاریخ",
+    "dealerInquiry": "استعلام نمایندگی",
+    "dealerInquiryDate": "تاریخ",
+    "documentStatus": "وضعیت سند",
+    "clearanceDate": "تاریخ ترخیص",
+    "hasTarkhisComplete": "ترخیص کامل شده؟"
+  
   },
   "error": {
     "sessionExpiry": "لطفا دوباره لاگین شوید.",
