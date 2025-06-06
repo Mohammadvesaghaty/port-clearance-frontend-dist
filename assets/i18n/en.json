@@ -10,6 +10,7 @@
     "saved": "ذخیره شد",
     "updated": "به روز شد",
     "deleted": "حذف شد",
+    "negativeId": "سندی برای حذف وجود ندارد",
     "areYouSureToDelete": "آیا مطمئن هستید که می خواهید حذف کنید؟"
   },
   "sideNavMenu": {
@@ -37,8 +38,8 @@
     }
   },
   "columnDefBoolean": {
-    "true": "صحیح",
-    "false": "غلط"
+    "true": "دارد",
+    "false": "ندارد"
   },
   "agency": {
     "title": "نمایندگی",
@@ -75,6 +76,7 @@
   },
   "veteran": {
     "title": "کهنه سرباز",
+    "hasOrder": "سفارش دارد؟",
     "firstName": "نام کهنه سرباز",
     "lastName": "نام خانوادگی کهنه سرباز",
     "phoneNumber": "شماره تلفن کهنه سرباز",
@@ -121,7 +123,7 @@
     "updateUserDate": "تاریخ آخرین تغییر",
     "candidatePaymentType": "نوع پرداخت نمایندگی",
     "candidatePaymentDescription": "توضیحات پرداخت",
-    "chassi": "شاسی",
+    "chassi": "شماره شاسی",
     "amount": "مبلغ ارز",
     "amountDate": "تاریخ مبلغ ارز",
     "documentVerifiedDate": "تاریخ تایید مدارک",
@@ -129,7 +131,9 @@
     "powerOfAttorneyDate": "تاریخ وکالت نامه",
     "hasOrderComplete": "سفارش کامل شده؟",
     "hasOrderCompleteDate": "تاریخ",
+    "hasTarkhis": "ترخیص دارد؟",
 
+    
     "color": "رنگ",
     "carArrivalDate": "تاریخ رسیدن خودرو",
     "warehouseReceiptDate": "تاریخ قبض انبار",
@@ -151,13 +155,22 @@
     "dealerInquiryDate": "تاریخ",
     "documentStatus": "وضعیت سند",
     "clearanceDate": "تاریخ ترخیص",
-    "hasTarkhisComplete": "ترخیص کامل شده؟"
+    "engineNumber":"شماره موتور",
+    "hasTarkhisComplete": "ترخیص کامل شده؟",
+    "hasTarkhisCompleteDate": "تاریخ",
+    "tarkhisCreateUser": "ایجاد کننده",
+    "tarkhisCreateUserDate": "تاریخ ایجاد",
+    "tarkhisUpdateUser": "اخرین تغییر",
+    "tarkhisUpdateUserDate": "تاریخ آخرین تغییر",
+    "hasShomaregozari": "شمارهگذاری دارد؟",
+    "tarkhisStarted": "ترخیص شروع شده؟"
   
   },
   "error": {
     "sessionExpiry": "لطفا دوباره لاگین شوید.",
     "permission": "شما دسترسی لازم برای این عملیات را ندارید.",
     "serverError": "خطا در سرور. لطفا دوباره تلاش کنید.",
-    "foreignKey": "بدلیل استفاده از این ایتم در فرم دیگر، امکان تغییر یا حذف وجود ندارد."
+    "foreignKey": "بدلیل استفاده از این ایتم در فرم دیگر، امکان تغییر یا حذف وجود ندارد.",
+    "OrderHasTarkhis": "این سفارش دارای ترخیص است و امکان حذف آن وجود ندارد."
   }
 }
