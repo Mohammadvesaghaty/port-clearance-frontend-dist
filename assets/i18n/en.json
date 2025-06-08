@@ -1,5 +1,5 @@
 {
-  "system.name":"سیستم کهنه سربازی",
+  "system.name": "سیستم کهنه سربازی",
   "userWelcomeHeader": "خوش آمدید ",
   "crud": {
     "newBtn": "جدید",
@@ -26,13 +26,11 @@
         "product": "کالا",
         "order": "سفارش",
         "tarkhis": "ترخیص"
-        
       }
     },
     "regisery": {
       "title": "ثبت نام"
-    }
-    ,
+    },
     "tarkhis": {
       "title": "ترخیص"
     }
@@ -61,9 +59,9 @@
     "description": "توضیحات",
     "name": "نوع قرارداد"
   },
-  "investorTypeName":{
-    "Man":"شخص",
-    "Company":"شرکت"
+  "investorTypeName": {
+    "Man": "شخص",
+    "Company": "شرکت"
   },
   "investor": {
     "title": "سرمایه گذار",
@@ -88,7 +86,22 @@
     "veteransSystemPassword": "رمز عبور سیستم کهنه سربازان",
     "contractNumber": "شماره قرارداد",
     "description": "توضیحات",
-    "contractDate": "تاریخ قرارداد"
+    "contractDate": "تاریخ قرارداد",
+    "hasNationalCard": "کارت ملی",
+    "hasVeteranCard": "کارت جانبازی",
+    "hasBirthCertificate": "شناسنامه",
+    "hasToken": "توکن",
+    "hasSimCard": "سیم کارت",
+    "hasSana": "ثنا",
+    "hasSakha": "سخا",
+    "hasSignatureCertificate": "گواهی امضا",
+    "hasGeneralPowerOfAttorney": "وکالت کلی",
+    "hasCustomsPowerOfAttorney": "وکالت گمرکی",
+    "hasWithdrawalCommitment": "تعهد عدم برداشت از حساب",
+    "taavonBankAccountNumber": "شماره حساب توسعه تعاون",
+    "hasBankingPowerOfAttorney": "وکالت بانکی",
+    "hasRegistrationPowerOfAttorney": "وکالت شماره گذاری",
+    "hasLicensePlateChangePowerOfAttorney": "وکالت تعویض پلاک"
   },
   "product": {
     "title": "محصول",
@@ -103,7 +116,6 @@
   "order": {
     "orderTitle": " سفارش",
     "tarkhisTitle": " ترخیص",
-
     "investorPhoneNumber": "تلفن سرمایه گذار",
     "warrantyContractDate": "تاریخ قرارداد گارانتی",
     "documentVerified": "تایید مدارک",
@@ -132,7 +144,9 @@
     "hasOrderComplete": "سفارش کامل شده؟",
     "hasOrderCompleteDate": "تاریخ",
     "hasTarkhis": "ترخیص دارد؟",
-
+    "simCardNumber": "شماره سیم کارت",
+    "productIdUploadDate": "تاریخ آپلود شناسه کالا",
+    "productIdReceiveDate": "تاریخ دریافت شناسه کالا",
     
     "color": "رنگ",
     "carArrivalDate": "تاریخ رسیدن خودرو",
@@ -150,12 +164,12 @@
     "environmentTick": "تیک محیط زیست",
     "environmentTickDate": "تاریخ",
     "developmentOrgTick": "تیک سازمان توسعه",
-    "developmentOrgTickDate":"تاریخ",
+    "developmentOrgTickDate": "تاریخ",
     "dealerInquiry": "استعلام نمایندگی",
     "dealerInquiryDate": "تاریخ",
     "documentStatus": "وضعیت سند",
     "clearanceDate": "تاریخ ترخیص",
-    "engineNumber":"شماره موتور",
+    "engineNumber": "شماره موتور",
     "hasTarkhisComplete": "ترخیص کامل شده؟",
     "hasTarkhisCompleteDate": "تاریخ",
     "tarkhisCreateUser": "ایجاد کننده",
@@ -164,7 +178,6 @@
     "tarkhisUpdateUserDate": "تاریخ آخرین تغییر",
     "hasShomaregozari": "شمارهگذاری دارد؟",
     "tarkhisStarted": "ترخیص شروع شده؟"
-  
   },
   "error": {
     "sessionExpiry": "لطفا دوباره لاگین شوید.",
